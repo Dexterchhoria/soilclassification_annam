@@ -24,7 +24,4 @@ I developed a complete workflow for soil image classification, including data pr
 - **Submission Ready:**  
   Generates predictions and formats the submission file exactly as required (`image_id,label`).
 
----
-
-## Repository Structure
 
